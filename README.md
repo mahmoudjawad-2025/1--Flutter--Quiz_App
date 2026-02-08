@@ -12,7 +12,6 @@ A simple and fun Flutter quiz app. It includes a countdown timer, vibration aler
 - [🛠️ Tech Stack](#-tech-stack)
 - [⚙️ Getting Started](#-getting-started)
 - [📱 Features Detail](#-features-detail)
-- [🤝 Contact](#-contact)
 - [📞 Contact](#-contact)
 
 
