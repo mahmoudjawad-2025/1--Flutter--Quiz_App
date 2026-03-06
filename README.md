@@ -10,7 +10,7 @@ A simple and fun Flutter quiz app. It includes a countdown timer, vibration aler
 - [🌟 Key Features](#-key-features)
 - [📸 App Flow & Preview](#-app-flow--preview)
 - [🛠️ Tech Stack](#-tech-stack)
-- [⚙️ Getting Started](#-getting-started)
+- [⚙️ Getting Started](#setup)
 - [📱 Features Detail](#-features-detail)
 - [📞 Contact](#-contact)
 
@@ -69,6 +69,8 @@ The application follows a structured flow designed for clarity and user engageme
 <br>
 <hr>
 
+
+<a name="setup"></a>
 ## ⚙️ Getting Started
 
 ### Prerequisites
