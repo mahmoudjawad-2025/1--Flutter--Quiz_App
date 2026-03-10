@@ -83,7 +83,7 @@ The application follows a structured flow designed for clarity and user engageme
 
 1. **Clone the repository:**
 ```bash
-git clone [[https://github.com/yourusername/quiz-app.git](https://github.com/mahmoudjawad-2025/1-Flutter-QuizApp.git)]([https://github.com/yourusername/quiz-app.git](https://github.com/mahmoudjawad-2025/1-Flutter-QuizApp.git))
+git clone <repo-url>
 ```
 2. **Install dependencies:**
 ```bash
@@ -119,7 +119,7 @@ The final screen calculates if the user passed based on a 50% threshold:
 
 ## 📞 Contact
 
-📧 mahmoudjawad02025@gmail.com
-
-🔗 GitHub: [mahmoudjawad-2025](https://github.com/mahmoudjawad-2025/)
+- 📧 **Email**: [mahmoudjawad02025@gmail.com](mailto:mahmoudjawad02025@gmail.com)
+- 💻 **GitHub Profile**: [@mahmoudjawad-2025](https://github.com/mahmoudjawad-2025/)
+- 💼 **LinkedIn:** [linkedin.com/in/mahmoud-abu-alsebaa](https://linkedin.com/in/mahmoud-abu-alsebaa)
 
